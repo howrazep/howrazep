@@ -6,6 +6,6 @@
 - Business Student :coin:
 
 ## Projects
-| Project     | Repository | Category |
-|:-----------:|:----------:|:--------:|
-| Weather app | Private    | Science  |
+| Project                                                   | Repository | Category |
+|:---------------------------------------------------------:|:----------:|:--------:|
+| [Weather app](https://weather-forecast-blond.vercel.app/) | Private    | Science  |
