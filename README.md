@@ -1,9 +1,9 @@
 # Howrazep
 
 ## Info
-- Italy
-- Full Stack Developer / Data Scientist
-- Business Student
+- Italy :world_map:
+- Web Developer / Data Scientist :keyboard:
+- Business Student :coin:
 
 ## Projects
 | Project     | Repository | Category |
