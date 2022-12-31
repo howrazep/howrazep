@@ -8,4 +8,3 @@
 ## Projects
 | Project                                                   | Repository | Category |
 |:---------------------------------------------------------:|:----------:|:--------:|
-| [Weather app](https://weather-forecast-blond.vercel.app/) | Private    | Science  |
