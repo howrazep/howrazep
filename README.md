@@ -6,5 +6,6 @@
 - Business Student :coin:
 
 ## Projects
-| Project                                                   | Repository | Category |
-|:---------------------------------------------------------:|:----------:|:--------:|
+| Project                                                          | Repository | Category        |
+|:----------------------------------------------------------------:|:----------:|:---------------:|
+| [Tastes of Portugal](https://tastes-of-portugal.vercel.app/)     | Private    | Web development |
