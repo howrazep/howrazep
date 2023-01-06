@@ -2,7 +2,7 @@
 
 ## Info
 - Italy :world_map:
-- Web Developer / Data Scientist :keyboard:
+- Web Developer :keyboard:
 - Business Student :coin:
 
 ## Projects
